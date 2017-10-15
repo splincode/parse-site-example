@@ -1,0 +1,22 @@
+{
+  "name": "parse-site-example",
+  "version": "1.0.0",
+  "description": "Пример парсинга сайта на phantomjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splincode/parse-site-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/splincode/parse-site-example/issues"
+  },
+  "homepage": "https://github.com/splincode/parse-site-example#readme",
+  "devDependencies": {
+    "phantomjs-prebuilt": "^2.1.15"
+  }
+}
